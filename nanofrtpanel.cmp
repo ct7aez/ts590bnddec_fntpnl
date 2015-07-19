@@ -1,0 +1,73 @@
+Cmp-Mod V01 Created by Cvpcb 0.201503311001+5559~22~ubuntu14.04.1-product   date = Sex 03 Abr 2015 12:38:17 WEST
+
+BeginCmp
+TimeStamp = /55164623;
+Reference = C1;
+ValeurCmp = 100n;
+IdModule  = Capacitors_SMD:C_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /55146653;
+Reference = DS1;
+ValeurCmp = LCD-016N002L;
+IdModule  = Display:WC1602A;
+EndCmp
+
+BeginCmp
+TimeStamp = /551D4FD1;
+Reference = P1;
+ValeurCmp = CONN_02X08;
+IdModule  = Socket_Strips:Socket_Strip_Straight_2x08;
+EndCmp
+
+BeginCmp
+TimeStamp = /551E7456;
+Reference = Q1;
+ValeurCmp = BS170;
+IdModule  = Housings_TO-92:TO-92_Inline_Wide;
+EndCmp
+
+BeginCmp
+TimeStamp = /55147563;
+Reference = RV1;
+ValeurCmp = 10K;
+IdModule  = Potentiometers:Potentiometer_Trimmer-Piher-PT15-h5_vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = /55144630;
+Reference = SW1;
+ValeurCmp = DOWN;
+IdModule  = Buttons_Switches_SMD:SW_SPST_PTS645;
+EndCmp
+
+BeginCmp
+TimeStamp = /55144664;
+Reference = SW2;
+ValeurCmp = UP;
+IdModule  = Buttons_Switches_SMD:SW_SPST_PTS645;
+EndCmp
+
+BeginCmp
+TimeStamp = /551446A5;
+Reference = SW3;
+ValeurCmp = SELECT;
+IdModule  = Buttons_Switches_SMD:SW_SPST_PTS645;
+EndCmp
+
+BeginCmp
+TimeStamp = /551446DB;
+Reference = SW4;
+ValeurCmp = ESC;
+IdModule  = Buttons_Switches_SMD:SW_SPST_PTS645;
+EndCmp
+
+BeginCmp
+TimeStamp = /5514D4D3;
+Reference = SW5;
+ValeurCmp = RESET;
+IdModule  = Buttons_Switches_SMD:SW_SPST_PTS645;
+EndCmp
+
+EndListe
